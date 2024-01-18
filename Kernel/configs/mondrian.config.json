@@ -37,4 +37,5 @@
         "LLVM_DIS": "proton-clang/bin/llvm-dis"
       }
     }
+    ]
 ]
